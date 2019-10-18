@@ -1,10 +1,6 @@
-<select class="form-control" id="kode-negara-selected">
-  <!-- Countries often selected by users can be moved to the top of the list. -->
-  <!-- Countries known to be subject to general US embargo are commented out by default. -->
-  <!-- The data-countryCode attribute is populated with ISO country code, and value is int'l calling code. -->
-
-
-  <option data-countryCode="ID" value="62" selected>Indonesia (+62)</option>
+<select class="form-control" id="kode-negara-selected" style="width: 100%;">
+  <option value="" disabled selected>Pilih Kode Negara</option>
+  <option data-countryCode="ID" value="62">Indonesia (+62)</option>
 
   <option disabled>Other Countries</option>
   <option data-countryCode="US" value="1">USA (+1)</option>
