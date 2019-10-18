@@ -1,4 +1,4 @@
-<select class="form-control" id="kode-negara-selected" style="width: 100%;">
+<select class="form-control" id="kode-negara-selected" style="width: 40%;">
   <option value="" disabled selected>Pilih Kode Negara</option>
   <option data-countryCode="ID" value="62">Indonesia (+62)</option>
 
