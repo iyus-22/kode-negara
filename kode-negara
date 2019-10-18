@@ -1,4 +1,3 @@
-<select class="form-control" id="kode-negara-selected" style="width: 100%;">
   <option value="" disabled>Pilih Kode Negara</option>
   <option data-countryCode="ID" value="62">Indonesia (+62)</option>
 
@@ -217,4 +216,3 @@
   <option data-countryCode="YE" value="967">Yemen (South)(+967)</option>
   <option data-countryCode="ZM" value="260">Zambia (+260)</option>
   <option data-countryCode="ZW" value="263">Zimbabwe (+263)</option>
-</select>
